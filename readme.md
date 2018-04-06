@@ -32,3 +32,9 @@ MAIL_FROM_NAME="Your Name"
 <strong>Your account must meet the requirements :
 1. enable the 2-step verification to google <a href="https://www.google.com/landing/2step/">Here</a>
 2. Create App Password to be use by your system <a href="https://security.google.com/settings/security/apppasswords">Here</a></strong>
+
+
+i have problem and solved with this <a href="https://stackoverflow.com/questions/42558903/expected-response-code-250-but-got-code-535-with-message-535-5-7-8-username">solution</a>
+
+
+Thanks for visiting my repository :).
