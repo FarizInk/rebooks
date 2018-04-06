@@ -6,12 +6,13 @@ Rebooks App, simple online book store.
 
 1. Clone this repository
 2. <pre>cd laravel</pre>
-3. <pre>composer install</pre>
-4. <pre>php artisan key:generate</pre>
-5. <pre>php artisan migrate --seed</pre>
-6. <pre>cd ..</pre>
-7. <pre>php -S localhost:8000</pre> or other ports
-8. Open your browser with port.
+3. <pre>cp .env.example .env</pre>
+4. <pre>composer install</pre>
+5. <pre>php artisan key:generate</pre>
+6. <pre>php artisan migrate --seed</pre>
+7. <pre>cd ..</pre>
+8. <pre>php -S localhost:8000</pre> or other ports
+9. Open your browser with port.
 
 
 Setting Register email validation :
