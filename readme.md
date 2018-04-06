@@ -29,6 +29,6 @@ MAIL_FROM_ADDRESS=youremail@gmail.com
 MAIL_FROM_NAME="Your Name"
 </pre>
 
-<code>Your account must meet the requirements :
+<strong>Your account must meet the requirements :
 1. enable the 2-step verification to google <a href="https://www.google.com/landing/2step/">Here</a>
-2. Create App Password to be use by your system <a href="https://security.google.com/settings/security/apppasswords">Here</a></code>
+2. Create App Password to be use by your system <a href="https://security.google.com/settings/security/apppasswords">Here</a></strong>
