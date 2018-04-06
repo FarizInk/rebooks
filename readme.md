@@ -17,7 +17,7 @@ Rebooks App, simple online book store.
 
 Setting Register email validation :
 1. open .env
-2. add this :
+2. edit mail like this :
 <pre>
 QUEUE_DRIVER=database
 MAIL_DRIVER=smtp
