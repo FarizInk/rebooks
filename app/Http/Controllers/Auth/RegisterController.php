@@ -43,6 +43,12 @@ class RegisterController extends Controller
         $this->middleware('guest');
     }
 
+    public function showRegistrationForm()
+    {
+        $cities = City::all();
+        return view('auth.register', compact('cities'));
+    }
+
     /**
      * Get a validator for an incoming registration request.
      *
